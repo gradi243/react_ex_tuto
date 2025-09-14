@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@plugin "daisyui";
+/* You can add global styles to this file, and also import other style files */
+
+// filepath: tailwind.config.js
+// ...existing code...
+module.exports = {
+  // ...existing config...
+  plugins: [require('daisyui')],
+}
+// ...existing code...
