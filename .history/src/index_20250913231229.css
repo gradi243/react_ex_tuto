@@ -1,0 +1,5 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* DaisyUI is a Tailwind plugin, so configure it in tailwind.config.js, not in CSS */
